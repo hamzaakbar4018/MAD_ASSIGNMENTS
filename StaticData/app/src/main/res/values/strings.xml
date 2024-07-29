@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StaticData</string>
+    <string name="static_text1">This is static text 1</string>
+    <string name="static_text2">This is static text 2</string>
+</resources>
